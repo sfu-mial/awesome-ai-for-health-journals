@@ -1,6 +1,6 @@
-- Medical Image Analysis
-- Artificial Intelligence in Medicine
-- Computer Methods & Programs in Biomedicine
+- [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis)
+- [Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)
+- [Computer Methods & Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine)
 - Computerized Medical Imaging and Graphics
 - Biomedical Signal Processing and Control
 - International Journal for Numerical Methods in Biomedical Engineering
