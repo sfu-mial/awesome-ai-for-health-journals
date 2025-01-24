@@ -1,20 +1,20 @@
-– Medical Image Analysis
-– Artificial Intelligence in Medicine
-– Computer Methods & Programs in Biomedicine
-– Computerized Medical Imaging and Graphics
-– Biomedical Signal Processing and Control
-– International Journal for Numerical Methods in Biomedical Engineering
-– Radiology AI
-– Nature Machine Intelligence
-– Nature Digital Medicine
-– The Lancet Digital Health
-– ACM Transactions on Computing for Healthcare
-– Computers in Biology and medicine
+- Medical Image Analysis
+- Artificial Intelligence in Medicine
+- Computer Methods & Programs in Biomedicine
+- Computerized Medical Imaging and Graphics
+- Biomedical Signal Processing and Control
+- International Journal for Numerical Methods in Biomedical Engineering
+- Radiology AI
+- Nature Machine Intelligence
+- Nature Digital Medicine
+- The Lancet Digital Health
+- ACM Transactions on Computing for Healthcare
+- Computers in Biology and Medicine
 
-IEEE transactions on:
-– Medical Imaging
-– Computational Biology and Bioinformatics
-– Biomedical Engineering
-– Engineering in Medicine and Biology
-– Information Technology in Biomedicine
-– IEEE Journal of Biomedical and Health Informatics
+IEEE Transactions on:
+- Medical Imaging
+- Computational Biology and Bioinformatics
+- Biomedical Engineering
+- Engineering in Medicine and Biology
+- Information Technology in Biomedicine
+- IEEE Journal of Biomedical and Health Informatics
