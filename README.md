@@ -9,12 +9,15 @@
 - Nature Digital Medicine
 - The Lancet Digital Health
 - ACM Transactions on Computing for Healthcare
-- Computers in Biology and Medicine
+- [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)
 
 IEEE Transactions on:
-- Medical Imaging
-- Computational Biology and Bioinformatics
-- Biomedical Engineering
+- [Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
+- [Computational Biology and Bioinformatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8857)
+- [Biomedical Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10)
 - Engineering in Medicine and Biology
 - Information Technology in Biomedicine
 - IEEE Journal of Biomedical and Health Informatics
+
+
+- [Bioinformatics](https://academic.oup.com/bioinformatics)
