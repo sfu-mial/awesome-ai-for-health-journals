@@ -14,20 +14,20 @@ If you want to contribute, create a pull request.
 - [Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)
 - [Computer Methods & Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine)
 - [Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics)
-- Biomedical Signal Processing and Control
-- International Journal for Numerical Methods in Biomedical Engineering
-- Radiology AI
-- Nature Machine Intelligence
-- Nature Digital Medicine
-- The Lancet Digital Health 
+- [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)
+- [International Journal for Numerical Methods in Biomedical Engineering](https://onlinelibrary.wiley.com/journal/20407947)
+- [Radiology AI](https://pubs.rsna.org/journal/ai)
+- [Nature Machine Intelligence](https://www.nature.com/natmachintell/)
+- [Nature Digital Medicine](https://www.nature.com/npjdigitalmed/)
+- [The Lancet Digital Health](https://www.thelancet.com/journals/landig/home) 
 - [Bioinformatics](https://academic.oup.com/bioinformatics)
-- ACM Transactions on Computing for Healthcare
+- [ACM Transactions on Computing for Healthcare](https://dl.acm.org/journal/health)
 - [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)
 
 IEEE Transactions on:
 - [Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
 - [Computational Biology and Bioinformatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8857)
 - [Biomedical Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10)
-- Engineering in Medicine and Biology
-- Information Technology in Biomedicine
-- IEEE Journal of Biomedical and Health Informatics
+- [Engineering in Medicine and Biology](https://www.embs.org/ojemb/)
+- [Information Technology in Biomedicine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4233)
+- [IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)
