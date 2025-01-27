@@ -3,7 +3,8 @@ These are publications at the intersection of Computing Science, Mathematics, Ph
 Typically they require novel contributions from all fields to succeed (and publish).
 
 **Note**
-These links are not auto-generated or validated, so ymmv, they do not confer a level of approval or validation, though they can be listed after review or authoring of publications in them by the Hamarneh lab.
+These links are not auto-generated or validated, so ymmv, they do not confer a level of approval or validation. 
+Usually they're on our radar after review or authoring of publications in them by researchers in the Hamarneh lab.
 
 If you want to contribute, create a pull request.
 
