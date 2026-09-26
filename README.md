@@ -23,6 +23,7 @@ If you want to contribute, create a pull request.
 - [Bioinformatics](https://academic.oup.com/bioinformatics)
 - [ACM Transactions on Computing for Healthcare](https://dl.acm.org/journal/health)
 - [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)
+- [Artificial Intelligence in the Life Sciences](https://www.sciencedirect.com/journal/artificial-intelligence-in-the-life-sciences)
 
 IEEE Transactions on:
 - [Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
