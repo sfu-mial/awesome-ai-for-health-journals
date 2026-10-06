@@ -11,6 +11,7 @@ If you want to contribute, create a pull request.
 ## List
 
 - [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis)
+- [MELBA: Machine Learning for Biomedical Imaging](https://www.melba-journal.org)
 - [Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)
 - [Computer Methods & Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine)
 - [Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics)
