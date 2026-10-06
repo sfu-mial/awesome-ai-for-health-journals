@@ -15,7 +15,7 @@ If you want to contribute, create a pull request.
 - [J. SPIE Medical Imaging](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging)
 - [Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)
 - [Computer Methods & Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine)
-- [Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics)
+- [Computerized Medical Imaging and Graphics (CMIG)](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics)
 - [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)
 - [International Journal for Numerical Methods in Biomedical Engineering](https://onlinelibrary.wiley.com/journal/20407947)
 - [Radiology AI](https://pubs.rsna.org/journal/ai)
@@ -26,6 +26,13 @@ If you want to contribute, create a pull request.
 - [ACM Transactions on Computing for Healthcare](https://dl.acm.org/journal/health)
 - [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)
 - [Artificial Intelligence in the Life Sciences](https://www.sciencedirect.com/journal/artificial-intelligence-in-the-life-sciences)
+- International Journal of Computer Assisted Radiology and Surgery (IJCARS)
+- Medical Physics
+- Physics in Medicine and Biology (PMB)
+- NeuroImage
+- 
+
+
 
 IEEE Transactions on:
 - [Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
@@ -34,3 +41,15 @@ IEEE Transactions on:
 - [Engineering in Medicine and Biology](https://www.embs.org/ojemb/)
 - [Information Technology in Biomedicine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4233)
 - [IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)
+
+
+
+European Radiology   
+Dipòsit Digital de la Universitat de Barcelona
+Investigative Radiology
+Imaging Neuroscience
+Human Brain Mapping
+Bioinformatics
+BMC Bioinformatics
+Journal of Magnetic Resonance Imaging (JMRI)
+Magnetic Resonance in Medicine (MRM)
