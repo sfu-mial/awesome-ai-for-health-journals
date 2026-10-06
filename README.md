@@ -31,8 +31,9 @@ If you want to contribute, create a pull request.
 - [Physics in Medicine and Biology (PMB)](https://publishingsupport.iopscience.iop.org/journals/physics-in-medicine-biology/about-physics-medicine-biology/)
 - [NeuroImage](https://www.sciencedirect.com/journal/neuroimage)
 - [Imaging Neuroscience](https://direct.mit.edu/imag)
-
-
+- [Bioinformatics](https://academic.oup.com/bioinformatics/)
+- [BMC Bioinformatics](https://link.springer.com/journal/12859)
+- [Magnetic Resonance in Medicine (MRM)](https://onlinelibrary.wiley.com/journal/15222594)
 
 IEEE Transactions on:
 - [Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
@@ -41,12 +42,3 @@ IEEE Transactions on:
 - [Engineering in Medicine and Biology](https://www.embs.org/ojemb/)
 - [Information Technology in Biomedicine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4233)
 - [IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)
-
-
-
-Dipòsit Digital de la Universitat de Barcelona
-Investigative Radiology
-Bioinformatics
-BMC Bioinformatics
-Journal of Magnetic Resonance Imaging (JMRI)
-Magnetic Resonance in Medicine (MRM)
