@@ -30,7 +30,8 @@ If you want to contribute, create a pull request.
 - Medical Physics
 - Physics in Medicine and Biology (PMB)
 - NeuroImage
-- 
+
+- Imaging Neuroscience\
 
 
 
@@ -44,11 +45,8 @@ IEEE Transactions on:
 
 
 
-European Radiology   
 Dipòsit Digital de la Universitat de Barcelona
 Investigative Radiology
-Imaging Neuroscience
-Human Brain Mapping
 Bioinformatics
 BMC Bioinformatics
 Journal of Magnetic Resonance Imaging (JMRI)
