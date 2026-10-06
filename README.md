@@ -26,12 +26,11 @@ If you want to contribute, create a pull request.
 - [ACM Transactions on Computing for Healthcare](https://dl.acm.org/journal/health)
 - [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)
 - [Artificial Intelligence in the Life Sciences](https://www.sciencedirect.com/journal/artificial-intelligence-in-the-life-sciences)
-- International Journal of Computer Assisted Radiology and Surgery (IJCARS)
-- Medical Physics
-- Physics in Medicine and Biology (PMB)
-- NeuroImage
-
-- Imaging Neuroscience\
+- [International Journal of Computer Assisted Radiology and Surgery (IJCARS)](https://link.springer.com/journal/11548)
+- [Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209)
+- [Physics in Medicine and Biology (PMB)](https://publishingsupport.iopscience.iop.org/journals/physics-in-medicine-biology/about-physics-medicine-biology/)
+- [NeuroImage](https://www.sciencedirect.com/journal/neuroimage)
+- [Imaging Neuroscience](https://direct.mit.edu/imag)
 
 
 
